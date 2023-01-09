@@ -39,10 +39,6 @@ document.getElementById('btn_6').addEventListener('click', function () {
     inputWindow.value += '6';
 });
 
-document.getElementById('btn_6').addEventListener('click', function () {
-    inputWindow.value += '6';
-});
-
 document.getElementById('btn_7').addEventListener('click', function () {
     inputWindow.value += '7';
 });
